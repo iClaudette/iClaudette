@@ -33,13 +33,7 @@
 
 
 ##### Stats:
-<a href="https://wakatime.com/@iclaudette">
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iclaudette&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
-</a>  
-
 
 [![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)

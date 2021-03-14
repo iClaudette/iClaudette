@@ -5,7 +5,7 @@
 "Age": "15",
 "favoriteLangs": "Javascript/CSS/Node.js",
 "Country": "TR",
-"LanguagesIKnow": "Javascript/html/css/php/node.js"
+"LanguagesIKnow": "Javascript/html/css/php/node.js",
 "favoriteMovieQuote": "Beneath this mask there is more than flesh, Beneath this mask there is an idea, Mr. Creedy, and ideas are bulletproof."
 }
 ```

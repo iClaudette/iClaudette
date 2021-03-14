@@ -1,7 +1,13 @@
-## Me
-xxx
-
-[/code]
+# Me
+```json
+{
+"Name": null,
+"Age": "15",
+"FavLangs": "Javascript/CSS/Node.js",
+"Country": "TR"
+"LanguagesIKnow": "Javascript/html/css/php/node.js/"
+}
+```
 ## My Discord Servers
 <br><br>
 <a href="https://discord.gg/BJBPQdZkNs"><img src="https://img.shields.io/discord/794639637435908156.svg?style=flat&label=vCodes&color=7289DA" alt="Join Community Badge"/></a><br>

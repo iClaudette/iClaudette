@@ -22,28 +22,25 @@
 
 🏆Platforms I Use:
 
-<img src="https://img.icons8.com/dusk/100/000000/epic-games.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/visual-studio-code-2019.png" height="50em"/> <img src="https://img.icons8.com/dusk/100/000000/reddit.png" height="50em"/> <img src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
+<img href="https://www.twitch.tv/iclaudette" src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/>
+<img href="https://www.github.com/iclaudette" src="https://img.icons8.com/plasticine/100/000000/youtube.png" height="50em"/>
+<img href="https://www.youtube.com/c/ClaudetteTheDev" src="https://img.icons8.com/plasticine/100/000000/github.png" height="50em"/>
 
-#### Contact:
-
-<a href="https://discord.com/users/582372411228291092">
+<a href="https://discord.com/users/714451348212678658">
 <img src="https://img.icons8.com/plasticine/100/000000/discord-logo.png" height="50em"/>
 </a>
 <br>
-<a href="https://stackoverflow.com/users/14620410/icode">
-<img src="https://github.com/uannabi/-/blob/master/resource/social/stackoverflow-ar21.svg" height="50em" align="center" alt="Follow icode"/>
-</a>
 
 
 
 ##### Stats:
 <a href="https://wakatime.com/@accomigt">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=accomigt&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iclaudette&show_icons=true&hide_border=true&bg_color=02265c&title_color=ea5e00&text_color=FFFFFF&icon_color=00d200">
 </a>  
 
 
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=Accomigt&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accomigt&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Accomigt/Accomigt/edit/main/README.md)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)

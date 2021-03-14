@@ -4,7 +4,7 @@
 "Name": null,
 "Age": "15",
 "FavLangs": "Javascript/CSS/Node.js",
-"Country": "TR"
+"Country": "TR",
 "LanguagesIKnow": "Javascript/html/css/php/node.js/"
 }
 ```

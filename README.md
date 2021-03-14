@@ -9,9 +9,7 @@
 "favoriteMovieQuote": "Beneath this mask there is more than flesh, Beneath this mask there is an idea, Mr. Creedy, and ideas are bulletproof."
 }
 ```
-## I Work with:
-
-🎭Languages:
+## 🎭Languages:
 <p>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/php%20-%23417FB0.svg?&style=for-the-badge&logo=php&logoColor=white"/>   
@@ -20,7 +18,7 @@
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-🏆Platforms I Use:
+## 🏆Platforms I Use:
 
 <p>
 <img href="https://www.twitch.tv/iclaudette" src="https://img.icons8.com/plasticine/100/000000/twitch.png" height="50em"/>
@@ -34,6 +32,6 @@
 
 ##### Stats:
 
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)<br>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)<br>

@@ -31,7 +31,7 @@
 <br>
 
 
-
-<h4>Stats</h4>
+####Stats
 [![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=dark)]<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=dark)]
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)]<br>

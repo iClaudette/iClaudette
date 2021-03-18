@@ -33,6 +33,6 @@
 
 
 <h4>Stats</h4>
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)<br>
-[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=https://github.com/iclaudette/iclaudette/edit/main/README.md)]<br>
+[![Encrypted github stats](https://github-readme-stats.vercel.app/api?username=iclaudette&show_icons=true&theme=dark)]<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iclaudette&theme=dark)]
